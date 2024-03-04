@@ -1,0 +1,117 @@
+/* navbar */
+.navbar1{
+    background-color:#201d1d; 
+    display: flex;
+    padding: 10px;
+    position:fixed;
+ 
+    
+}
+.rr1{
+  width:100%;
+  display: flex;
+  justify-content: space-between !important;
+}
+.navbar{
+  width: 100%;
+}
+.navbar11{
+  position: sticky;
+}
+.global-header__logo {
+    margin-top: -18px;
+    height: 17px;
+    width: auto;
+}
+.btn1-primary1 {
+  --bs-btn-bg: rgb(26, 172, 26) !important;
+  --bs-btn-hover-bg: aqua;
+  border: none;
+  margin-left: auto;
+  color: blanchedalmond;
+}
+  .navbar-nav{
+    margin-left: 222px;
+  }
+  .btn2{
+    margin-left: 362px;
+  }
+  .btn-primary2{
+    --bs-btn-bg:rgb(231, 147, 67) !important;
+    --bs-btn-hover-bg: rgb(11, 12, 12);
+    border: none;
+    color: white !important;
+    font-weight: bolder;
+    margin-left: 94px !important;
+  }
+  .me-2 {
+    margin-right: .5rem !important;
+}
+.btn img{
+  width: 25px;
+  margin-left: 3px !important;
+  align-items: center;
+}
+.banner-content h1 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    margin-bottom: 30px;
+    max-width: 748px;
+    color: #201F1D;
+  }
+  .rr2{
+    margin-top: 120px;
+    width: 140% !important;
+    display: flex;
+    justify-content: space-between !important;
+  }
+  .card{
+    position: static;
+  }
+/* footer */
+footer{
+    width: 100%;
+    height: 150px;
+    background-color: #131111;
+  }
+  .form1{
+    width: 600px;
+  }
+  .colf{
+    color: white;
+    margin-top: 25px;
+  }
+  #inner{
+    width: 50px !important;
+  }
+  #im2{
+    width: 48px;
+  }
+  ul{
+    list-style-type:none;
+  }
+  .footer-icons-group{
+    display: flex;
+    margin-top: 30px;
+    color: white;
+    margin-left: 380px;
+  }
+  .footer-icon-img img{
+    width: 25px;
+  }
+  .cols2{
+    display: flex;
+    margin-top: 45px !important;
+    flex: 6;
+    justify-content: center;
+    margin: 10px;
+  }
+  .cols3{
+    margin-top: 45px !important;
+  }
+  .rr2{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+  }
